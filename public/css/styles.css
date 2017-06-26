@@ -1,0 +1,85 @@
+#body {
+	width: 23%;
+	height: 68%;
+	background-color: gray;
+	margin-top: 2%;
+	margin-left: 30%;
+	border-top: 10px solid gray;
+	border-left: 25px solid black;
+	border-right: 3px solid gray;
+}
+
+#screen {
+	width: 95%;
+	padding-left: 15%;
+	background-color: black;
+	padding-top: 50px;
+	font-family: lucida;
+	color:white;
+	text-align: right;
+	height:25%;
+	font-size:30px;
+	border-bottom: 35px solid gray;
+}
+
+#output {
+	margin-top: -12%
+}
+
+
+#percent,#multiply{
+	height:50px;
+	border: 2px solid black;
+	width: 60px;
+	background-color: white;
+	color:blue;
+}
+
+#clear {
+	border:1px solid blue;
+	width:60px;
+	height:50px;
+	background-color: blue;
+}
+
+#delete{
+	border:1px solid red;
+	width:80px;
+	height:50px;
+	background-color: red;
+}
+
+.rowone,.rowtwo,.rowthree,.rowfour,.rowfive {
+	border-bottom: 10px solid gray;
+	font-size: 25px
+}
+
+#nine,#eight,#seven,#four,#five,#six,#three,#two,#one,#dot,#zero{
+	height:50px;
+	border: 1px solid white;
+	width: 65px;
+	background-color: white;
+	color:black;
+}
+
+#divide,#add,#subtract{
+	height:50px;
+	border: 2px solid black;
+	width: 65px;
+	background-color:white;
+	color:blue;
+}
+
+#equal {
+	height:50px;
+	border: 2px solid black;
+	width: 135px;
+	background-color:white;
+	color:blue;
+}
+
+#footer{
+	text-align: center;
+	font-size: 12px;
+	font-family:lucida;
+}
