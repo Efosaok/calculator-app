@@ -1,7 +1,7 @@
 {
-  "name": "efosa-calculator-app",
+  "name": "Calculator",
   "version": "1.0.0",
-  "description": "A Basic Calculator App built with HTML5,CSS and JAVASCRIPT",
+  "description": "A basic calculator-app",
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Efosaok/calculator-app.git"
   },
-  "author": "",
+  "author": "Efosa Okpugie",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Efosaok/calculator-app/issues"
   },
-  "homepage": "https://github.com/Efosaok/calculator-app#readme",
+  "homepage": "https://github.com/Efosaok/ShoppingCart#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.2"
   }
 }
