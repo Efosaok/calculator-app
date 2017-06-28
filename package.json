@@ -1,7 +1,7 @@
 {
-  "name": "calculator",
+  "name": "efosa-calculator-app",
   "version": "1.0.0",
-  "description": "Basic calculator app",
+  "description": "A Basic Calculator App built with HTML5,CSS and JAVASCRIPT",
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Efosaok/calculator-app.git"
   },
-  "author": "Efosa Okpugie",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Efosaok/calculator-app/issues"
